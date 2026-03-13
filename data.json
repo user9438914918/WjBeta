@@ -9,7 +9,7 @@
   },
   {
     "id": "task3",
-    "label": "Pickup and item and rejoin, verify you still have it."
+    "label": "Pickup the item and rejoin, verify you still have it."
   },
   {
     "id": "task4",
@@ -21,10 +21,22 @@
   },
   {
     "id": "task6",
-    "label": "test"
+    "label": "Spells works correctly and damages"
   },
   {
     "id": "task7",
-    "label": "test"
+    "label": "Explosion works correctly and damages"
+  },
+  {
+    "id": "task8",
+    "label": "Fiendfyre, arania exumai, fulmen works correctly"
+  },
+  {
+    "id": "task9",
+    "label": "Spawning beasts works correctly"
+  },
+  {
+    "id": "task10",
+    "label": ""
   }
 ]
