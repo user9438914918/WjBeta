@@ -1,9 +1,30 @@
 [
-  { "id": "task1", "label": "Verify login and authentication flows" },
-  { "id": "task2", "label": "Test responsiveness on mobile devices" },
-  { "id": "task3", "label": "Ensure all placeholder text is removed" },
-  { "id": "task4", "label": "Verify smooth transitions and animations" },
-  { "id": "task5", "label": "Test integration with external APIs" },
-  { "id": "task6", "label": "Perform cross-browser compatibility checks" },
-  { "id": "task7", "label": "Review accessibility and contrast ratios" }
+  {
+    "id": "task1",
+    "label": "Your data loads correctly"
+  },
+  {
+    "id": "task2",
+    "label": "Drop an item and reset, verify its gone."
+  },
+  {
+    "id": "task3",
+    "label": "Pickup and item and rejoin, verify you still have it."
+  },
+  {
+    "id": "task4",
+    "label": "Flying works correctly"
+  },
+  {
+    "id": "task5",
+    "label": "Apparating works correctly"
+  },
+  {
+    "id": "task6",
+    "label": "test"
+  },
+  {
+    "id": "task7",
+    "label": "test"
+  }
 ]
