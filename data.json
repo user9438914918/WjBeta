@@ -29,7 +29,7 @@
   },
   {
     "id": "task8",
-    "label": "Fiendfyre, arania exumai, fulmen works correctly"
+    "label": "Arania exumai, fulmen, aguamenti, incendio works correctly"
   },
   {
     "id": "task9",
@@ -37,6 +37,14 @@
   },
   {
     "id": "task10",
-    "label": ""
+    "label": "Fiendfyre works correctly and kills"
+  },
+  {
+    "id": "task11",
+    "label": "All buttons on mobile works correctly"
+  },
+  {
+    "id": "task12",
+    "label": "All wand & wandless buttons on mobile works correctly"
   }
 ]
